@@ -10,3 +10,4 @@ const addsomethinglocally2 = 2
 const locally3 =3
 const locally4 = 4
 5
+6
